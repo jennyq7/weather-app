@@ -6,7 +6,6 @@ function Header () {
             <span>Jenny Quan</span>
             <h1>Weather App</h1>
             <p>5 Day forecast</p>
-
         </Header>
     )
 };
